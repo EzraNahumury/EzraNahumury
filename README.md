@@ -17,7 +17,7 @@
 | <a href="https://github.com/EzraNahumury/Profile"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EzraNahumury&show_icons=true&show=prs_merged&theme=buefy&hide_border=true" alt="Ezra github stats" /></a> | <a href="https://github.com/EzraNahumury/Profile"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraNahumury&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BagusNurhudaUI" /> -->
+  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EzraNahumury" /> -->
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -82,6 +82,5 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/BagusNurhuda"><img src="https://img.shields.io/badge/-Bagus%20Nurhuda%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/BagusNurhuda" alt="LinkedIn Badge"></a> 
-        <a href="https://www.youtube.com/c/BagusNurhuda"><img src="https://img.shields.io/badge/-Bagus Nurhuda-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
+        <a href="https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/"><img src="https://img.shields.io/badge/-Bagus%20Nurhuda%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/" alt="LinkedIn Badge"></a> 
    </p>
