@@ -9,13 +9,10 @@
   </a>
 </p>
 
-✨ I'm a software engineer and cloud architect passionate about making the application and website accessible to everyone and advocating for several company to implement technology on their bussiness. I love to talking and sharing my knowledge with others, and also i deliver it through my [blog](https://new.bagusnurhuda.site/blog).
+✨ I am an Informatics student who focuses on self-development in the field of Cloud Computing, currently participating in the MSIB Bangkit program in collaboration with Google, GoTo, and Traveloka. Through this program, I have learned the basic concepts to implementation of cloud services such as Google Cloud Platform (GCP), as well as completing collaborative projects such as building cloud infrastructure for secure and efficient web applications. Experienced in programming using Node.js and Express.js, I am also used to working in cross-disciplinary teams with an Agile approach. With a passion for continuous learning and adapting to new technologies, I aspire to become a Cloud Engineer capable of delivering innovative solutions and supporting digital transformation.
 
-- 🔭 I’m currently doing freelance project as Fullstack Engineer
-- 📫 How to reach me: [Website](https://new.bagusnurhuda.site)
-- 📖 Learn more about my projects on my **[experiences](https://new.bagusnurhuda.site/experience)**
-- 📬 Ask me anything on my **[issues page](https://github.com/BagusNurhudaUI/BagusNurhudaUI/issues)**
-- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bagusnurhuda/)**
+- 🔭 I am currently studying at the university of kristen duta wacana yogyakarta.
+- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/)**
 
 | <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true&show=prs_merged&theme=buefy&hide_border=true" alt="Bagus's github stats" /></a> | <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagusNurhudaUI&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
