@@ -1,8 +1,8 @@
-<h1 align="left" >👋 Hello there! I'm Bagus Nurhuda</h1>
+<h1 align="left" >👋 Hello there! I'm Ezra Nahumury</h1>
 
 <p align="left">
-  <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI">
-    <img src="https://komarev.com/ghpvc/?username=BagusNurhudaUI" alt="page views" />
+  <a href="https://https://github.com/EzraNahumury/Profile">
+    <img src="https://komarev.com/ghpvc/?username=EzraNahumury" alt="page views" />
   </a>
   <a href="https://github.com/BagusNurhudaUI?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BagusNurhudaUI?color=green&logo=github">
