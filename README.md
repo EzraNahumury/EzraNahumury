@@ -14,7 +14,7 @@
 - 🔭 I am currently studying at the university of kristen duta wacana yogyakarta.
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/)**
 
-| <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BagusNurhudaUI&show_icons=true&show=prs_merged&theme=buefy&hide_border=true" alt="Bagus's github stats" /></a> | <a href="https://github.com/BagusNurhudaUI/BagusNurhudaUI"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagusNurhudaUI&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/EzraNahumury/Profile"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EzraNahumury&show_icons=true&show=prs_merged&theme=buefy&hide_border=true" alt="Ezra github stats" /></a> | <a href="https://github.com/EzraNahumury/Profile"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzraNahumury&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
   <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BagusNurhudaUI" /> -->
