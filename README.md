@@ -4,8 +4,8 @@
   <a href="https://https://github.com/EzraNahumury/Profile">
     <img src="https://komarev.com/ghpvc/?username=EzraNahumury" alt="page views" />
   </a>
-  <a href="https://github.com/BagusNurhudaUI?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BagusNurhudaUI?color=green&logo=github">
+  <a href="https://github.com/EzraNahumury?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/EzraNahumury?color=green&logo=github">
   </a>
 </p>
 
