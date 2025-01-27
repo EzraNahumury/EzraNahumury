@@ -25,24 +25,14 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
+    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+   
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="Kubernetes" />
