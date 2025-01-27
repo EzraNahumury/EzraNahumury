@@ -82,5 +82,5 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/"><img src="https://img.shields.io/badge/-Bagus%20Nurhuda%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/"><img src="https://img.shields.io/badge/-Ezra%20Nahumury%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ezra-kristanto-nahumury-50831228a/" alt="LinkedIn Badge"></a> 
    </p>
